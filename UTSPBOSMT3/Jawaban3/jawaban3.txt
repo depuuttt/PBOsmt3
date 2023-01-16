@@ -1,0 +1,5 @@
+Break:
+ Jika kondisi IF nya TRUE, kode akan berhenti dan output yang dihasilkan hanya B, akan
+
+Continue:
+ Jika kondisi IF nya TRUE, kode akan tetap berjalan dan mengecualikan huruf 'h', output yang dihasilkan 'b', 'a', 'a', 's', 'a'.

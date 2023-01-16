@@ -1,0 +1,12 @@
+quiz - nim - nama
+pengumpulan jam 11 malam
+
+Soal:
+1. How to run python with yours tools (full with capture)
+2. Make a simple python program with output your name and nim 
+   (full with capture and push to github)
+3. Make an operator python programming like +,-,/,* with generate input 
+   int from user (full with capture and source code push to github)
+4. Make a matrix 2X2 with python programming 
+   (bonus with do some logic + or - matrix) dont forget to capture 
+   and source code push to github
